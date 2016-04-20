@@ -40,6 +40,8 @@
             "../common/scripts/sshd_config.sh",
             "../common/scripts/vagrant.guest.account.sh",
             "../common/scripts/virtualbox.guest.additions.sh",
+            "../common/scripts/devenv.sh",
+            "../common/scripts/postgresql_centos7.sh",
             "../common/scripts/teardown.sh"
           ]
         }
